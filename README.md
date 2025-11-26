@@ -1,7 +1,7 @@
+<h3 align="center">🎧 Now Playing on Spotify</h3>
 <div align="center">
-  ### 🎧 Now Playing on Spotify
   
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jbriaxwxigui11413xwmzyo1x&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=f44e5c&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=jbriaxwxigui11413xwmzyo1x&redirect=true)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jbriaxwxigui11413xwmzyo1x&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&profanity=false&bar_color=f44e5c&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=jbriaxwxigui11413xwmzyo1x&redirect=true)
 </div>
 <!--
 **alvarocrsc/alvarocrsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
