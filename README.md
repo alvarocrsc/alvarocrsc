@@ -1,9 +1,21 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,angular,css,docker,figma,firebase&theme=dark&perline=6" />
-    <img src="https://skillicons.dev/icons?i=git,github,html,ai,java,js&theme=dark&perline=6" />
-    <img src="https://skillicons.dev/icons?i=kotlin,mysql,nextjs,nodejs,npm,ps&theme=dark&perline=6" />
-    <img src="https://skillicons.dev/icons?i=php,postman,react,tailwind,ts,vscode&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=angular,react,js,ts,html,css&theme=dark" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps,nextjs,nodejs,tailwind&theme=dark" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,androidstudio,kotlin,java,php&theme=dark" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,npm,postman,vscode&theme=dark" />
   </a>
 </p>
 
