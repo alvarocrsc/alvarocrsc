@@ -1,3 +1,5 @@
+<h3 align="center">🎭 My skills</h3>
+***
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,react,js,ts,html,css&theme=dark" />
