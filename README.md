@@ -1,4 +1,6 @@
+<div align="center">
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,css,docker,figma,firebase,git,github,html,ai,java,js,kotlin,mysql,nextjs,nodejs,npm,ps,php,postman,react,tailwind,ts,vscode&perline=6&theme=dark)](https://skillicons.dev)
+</div>
 
 <div align="center">
   
