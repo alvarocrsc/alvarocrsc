@@ -1,6 +1,11 @@
-<div align="center">
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,css,docker,figma,firebase,git,github,html,ai,java,js,kotlin,mysql,nextjs,nodejs,npm,ps,php,postman,react,tailwind,ts,vscode&perline=6&theme=dark)](https://skillicons.dev)
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,angular,css,docker,figma,firebase&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,ai,java,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=kotlin,mysql,nextjs,nodejs,npm,ps&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=php,postman,react,tailwind,ts,vscode&theme=dark" />
+  </a>
+</p>
 
 <div align="center">
   
