@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,angular,css,docker,figma,firebase&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=git,github,html,ai,java,js&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=kotlin,mysql,nextjs,nodejs,npm,ps&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=php,postman,react,tailwind,ts,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,angular,css,docker,figma,firebase&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,ai,java,js&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=kotlin,mysql,nextjs,nodejs,npm,ps&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=php,postman,react,tailwind,ts,vscode&theme=dark&perline=6" />
   </a>
 </p>
 
