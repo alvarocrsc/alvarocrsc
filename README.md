@@ -1,8 +1,4 @@
-<div align="center">
-  <h1>🎭 My Skills</h1>
-</div>
-
-<hr>
+<h1>🎭 My Skills</h1>
 
 <div align="center">
   <a href="https://skillicons.dev">
