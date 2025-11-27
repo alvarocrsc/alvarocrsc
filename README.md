@@ -1,4 +1,4 @@
-<h3 align="center">🎭 My skills</h3>
+<h2 align="center">🎭 My skills</h2>
 <hr>
 <div align="center">
   <a href="https://skillicons.dev">
