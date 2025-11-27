@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,css,docker,figma,firebase,git,github,html,ai,java,js,kotlin,mysql,nextjs,nodejs,npm,ps,php,postman,react,tailwind,ts,vscode&perline=6&theme=dark)](https://skillicons.dev)
+
 <div align="center">
   
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jbriaxwxigui11413xwmzyo1x&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&profanity=false&bar_color=f44e5c&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=jbriaxwxigui11413xwmzyo1x&redirect=true)
