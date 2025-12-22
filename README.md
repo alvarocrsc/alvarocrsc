@@ -1,4 +1,8 @@
-<h1>🎭 My Skills</h1>
+<p align="center">Full-stack and cross-platform developer with a strong creative mindset and a refined eye for design, primarily focused on frontend development. I combine technical innovation with visual aesthetics to build engaging interfaces and deliver high-quality digital experiences. Driven by usability, clean design, and excellence in every detail.</p>
+
+<hr>
+
+<h1>My Skills</h1>
 
 <div align="center">
   <a href="https://skillicons.dev">
