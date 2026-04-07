@@ -2,7 +2,9 @@
 
 <hr>
 
-<h1>✨ My Skills</h1>
+<h2>✨ My Skills</h2>
+
+<hr>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -21,6 +23,8 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker,npm,postman,vscode&theme=dark" />
   </a>
 </div>
+
+<hr>
 
 <div align="center">
   
