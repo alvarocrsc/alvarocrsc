@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6A0DAD,100:A463F2&text=Hi%20There%2C%20I'm%20Álvaro%20👋&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20and%20Cross-Platform%20Developer&descAlign=50&descAlignY=58&descSize=18)
+<img src="assets/header.png" width="100%" alt="Header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A463F2&center=true&vCenter=true&width=600&lines=Frontend-Focused+Full-Stack+Developer;Creative+Mindset+%2B+Refined+Design+Eye;Clean+Code+%C2%B7+Clean+UI+%C2%B7+Clean+UX" alt="Typing SVG" />
@@ -36,29 +36,18 @@
 
 <div align="center">
 
-![GitHub Stats](https://capsule-render.vercel.app/api?type=transparent&height=80&text=GitHub%20Stats&fontColor=A463F2&fontSize=50&fontAlign=50&fontAlignY=70)
+![Terminal](https://capsule-render.vercel.app/api?type=transparent&height=80&text=Terminal&fontColor=A463F2&fontSize=50&fontAlign=50&fontAlignY=70)
 
 </div>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alvarocrsc&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A463F2&icon_color=A463F2&text_color=FFFFFF&ring_color=A463F2&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarocrsc&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A463F2&text_color=FFFFFF&langs_count=8&cache_seconds=86400" />
+<img
+  src="https://terminal-identity-opal.vercel.app/api?name=Alvaro&username=alvarocrsc&role=Full-Stack%20%2F%20Frontend%20Developer&tagline=Building%20clean%2C%20creative%20interfaces%20with%20care.&command=npm%20run%20build&theme=obsidian/graphite&accent=%23A463F2&avatar=AC&pattern=grid&width=980&height=auto&motion=pulse&showContribs=on&contribTheme=constellation&contribRange=16w&contribMode=focus&showLangs=on&langCount=5&langStyle=icons&iconSize=md"
+  width="100%"
+  alt="Terminal identity card"
+/>
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alvarocrsc&theme=dark&hide_border=true&background=0D1117&ring=A463F2&fire=A463F2&currStreakLabel=A463F2" />
-
-</div>
-
-<div align="center">
-
-![Trophies](https://capsule-render.vercel.app/api?type=transparent&height=80&text=Trophy%20Room&fontColor=A463F2&fontSize=50&fontAlign=50&fontAlignY=70)
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alvarocrsc&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
 </div>
 
 <div align="center">
