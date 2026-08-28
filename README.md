@@ -58,7 +58,7 @@
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jbriaxwxigui11413xwmzyo1x&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=jbriaxwxigui11413xwmzyo1x&redirect=true))
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jbriaxwxigui11413xwmzyo1x&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=jbriaxwxigui11413xwmzyo1x&redirect=true)
 
 </div>
 
